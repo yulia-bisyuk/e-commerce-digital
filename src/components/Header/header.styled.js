@@ -9,7 +9,7 @@ const HeaderSection = styled.header`
 
   @media screen and (min-width: 768px) {
     padding-top: 24px;
-    padding-bottom: 24px;
+    /* padding-bottom: 24px; */
   }
 `;
 

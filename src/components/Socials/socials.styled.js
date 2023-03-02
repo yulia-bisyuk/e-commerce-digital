@@ -5,7 +5,7 @@ const SocialsWrapper = styled.div`
 `;
 
 const SocialsTitle = styled.h3`
-  margin-bottom: 20px;
+  margin-bottom: 24px;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
