@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunke_commerce_digital=self.webpackChunke_commerce_digital||[]).push([[270],{4270:function(e,c,a){a.r(c);var i=a(184);c.default=function(){return(0,i.jsx)("div",{children:"CatalogPage"})}}}]);
+//# sourceMappingURL=270.53045c6a.chunk.js.map
